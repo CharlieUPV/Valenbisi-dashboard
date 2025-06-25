@@ -1,0 +1,8 @@
+streamlit
+pandas
+geopandas
+folium
+streamlit-folium
+openrouteservice
+scikit-learn
+shapely
